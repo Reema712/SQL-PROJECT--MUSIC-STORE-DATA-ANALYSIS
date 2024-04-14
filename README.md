@@ -1,3 +1,7 @@
+# Database and Tools
+SQL Server Management Studio
+SQL Server 2022
+
 # SQL-PROJECT--MUSIC-STORE-DATA-ANALYSIS
                                                   
 
